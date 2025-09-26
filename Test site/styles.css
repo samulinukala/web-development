@@ -1,0 +1,8 @@
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 1px;
+  background-color: darkred;
+  .grid-container>div{background-color: brown;
+    color: white;
+  }
