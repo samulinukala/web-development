@@ -12,5 +12,5 @@ function randomiseColor(){
 }
 function loopColor()
 {
-  setTimeout(randomiseColor(),30000);
+  setTimeout(randomiseColor(),10000);
 }
