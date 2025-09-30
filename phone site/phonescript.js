@@ -1,4 +1,4 @@
-object.onload=function(){randomiseColor};
+window.onload=function(){randomiseColor};
 function randomiseColor(){
   let red= Math.floor( Math.random()*255);
   let blue= Math.floor( Math.random()*255);
