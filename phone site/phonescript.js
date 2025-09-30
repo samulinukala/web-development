@@ -12,7 +12,8 @@ function randomiseColor(){
 }
 function loopColor()
 { for(let step =0;step>10;step++){
-  setTimeout(randomiseColor(),1000);
+  setTimeout(decoyfunc(),1000);
+  randomiseColor();
 }}
 function decoyfunc(){
   console.log("wow");
