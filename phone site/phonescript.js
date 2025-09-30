@@ -11,12 +11,10 @@ function randomiseColor(){
  console.log("completed");
 }
 function loopColor()
-{ let step=0;
-  while(true){
-    
-  setTimeout(function(){decoyFunc(); randomiseColor();step++;},1000*step);
+{ setInterval(function(){
+    randomiseColor()},1000);
   
-}}
+}
 function decoyFunc(){
   console.log("wow");
 }
