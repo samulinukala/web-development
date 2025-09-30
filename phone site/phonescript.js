@@ -5,4 +5,5 @@ function randomiseColor(){
   let green= Math.floor( Math.random()*255);
   let color= "rgb(" +red+","+green+","+blue+")";
  document.getElementById("bg").style.color= color;
+ console.log("completed");
 }
