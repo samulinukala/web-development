@@ -1,4 +1,4 @@
-window.onload=function(){randomiseColor};
+
 function randomiseColor(){
   
   let red= Math.floor( Math.random()*255);
@@ -11,6 +11,9 @@ function randomiseColor(){
  console.log("completed");
 }
 function loopColor()
-{
-  setTimeout(randomiseColor(),10000);
+{ while(true){
+  setTimeout(decoyfunc(),10000);
+}}
+function decoyfunc(){
+  
 }
