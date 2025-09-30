@@ -7,10 +7,10 @@ function randomiseColor(){
   let color= "rgb(" +red+","+green+","+blue+")";
  document.getElementById("bg").style.backgroundColor= color;
 
-  setTimeout(loopColor(),300);
+  
  console.log("completed");
 }
 function loopColor()
-{
+{while(true){
   setTimeout(randomiseColor(),300);
-}
+}}
