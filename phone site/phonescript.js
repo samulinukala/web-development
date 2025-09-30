@@ -15,6 +15,6 @@ function loopColor()
   setTimeout(decoyfunc(),1000);
   randomiseColor();
 }}
-function decoyfunc(){
+function decoyFunc(){
   console.log("wow");
 }
