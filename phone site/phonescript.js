@@ -11,6 +11,6 @@ function randomiseColor(){
  console.log("completed");
 }
 function loopColor()
-{while(true){
+{
   setTimeout(randomiseColor(),300);
-}}
+}
