@@ -1,4 +1,4 @@
 function calculateAge(){
-const curDate=date().now;
+const curDate=Date().now;
 console.log(curdate);
 }
