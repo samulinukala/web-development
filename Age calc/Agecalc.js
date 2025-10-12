@@ -1,5 +1,5 @@
 function calculateAge(){
 const curDate=new Date();
- curDate.getFullYear();
+const d curDate.getFullYear();
 console.log(curDate);
 }
