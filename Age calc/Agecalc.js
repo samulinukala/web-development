@@ -1,6 +1,6 @@
 function calculateAge(){
 const curDate=new Date();
 const d= curDate.getFullYear();
-const 
+const bday=
 console.log(d);
 }
