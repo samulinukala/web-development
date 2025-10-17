@@ -1,4 +1,4 @@
 function clock()
 {
-const clockText= 
+const clockText=do 
 }
