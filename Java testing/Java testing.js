@@ -6,6 +6,6 @@ do {
   let time=new Date();
   
 }
-
+while ();
 
 }
