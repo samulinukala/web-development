@@ -7,6 +7,7 @@ do {
   const hour=time.getHours();
   const second=time.getSeconds();
   const minute=time.getMinutes();
+  const
   clockText.innerText=
 }
 while (true);
