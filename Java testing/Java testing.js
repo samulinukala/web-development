@@ -1,3 +1,4 @@
-function clock(){
+function clock()
+{
   
 }
