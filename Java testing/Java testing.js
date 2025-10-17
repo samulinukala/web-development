@@ -5,7 +5,7 @@ const clockText=document.getElementById("clockText");
 do {
   let time=new Date();
   const hour=time.getHours;
-  const seconds
+  const second=time.get
   clockText.innerText=
 }
 while (true);
