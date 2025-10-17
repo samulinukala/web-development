@@ -3,7 +3,7 @@ function clock()
 const clockText=document.getElementById("clockText"); 
   
   let time=new Date();
-  let display=time.to
+  let display=time.toL
   clockText.innerText=hour+":"+minute+ ":"+ second;
 }
 function loopClock()
