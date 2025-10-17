@@ -10,7 +10,7 @@ let t=true;
   const minute=time.getMinutes();
   const millisecond=time.getMilliseconds();
   clockText.innerText=hour+" : "+minute+ " : "+ second+" : "+millisecond;
-  t=true;
+ 
 
 
 }
