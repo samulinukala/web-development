@@ -8,5 +8,5 @@ const clockText=document.getElementById("clockText");
 }
 function loopClock()
 {
-setInterval(clock,200);  
+setInterval(clock,1000);  
 }
