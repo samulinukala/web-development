@@ -1,4 +1,4 @@
 function clock()
 {
-const clockText=do 
+const clockText=document.ge 
 }
