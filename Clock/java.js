@@ -10,6 +10,6 @@ do {
   const millisecond=time.getMilliseconds();
   clockText.innerText=hour+" : "+minute+ " : "+ second+" : "+millisecond;
 }
-while (true);
+while (t);
 
 }
