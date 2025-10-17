@@ -7,7 +7,7 @@ const clockText=document.getElementById("clockText");
   const second=time.getSeconds();
   const minute=time.getMinutes();
   const millisecond=time.getMilliseconds();
-  clockText.innerText=hour+":"+minute+ ":"+ second+":"+millisecond;
+  clockText.innerText=hour+":"+minute+ ":"+ second;
 }
 function loopClock()
 {
