@@ -9,7 +9,7 @@ const clockText=document.getElementById("clockText");
   const minute=time.getMinutes();
   const millisecond=time.getMilliseconds();
   clockText.innerText=hour+" : "+minute+ " : "+ second+" : "+millisecond;
-}
+//}
 while (true);
 
 }
