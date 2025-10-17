@@ -1,7 +1,7 @@
 function clock()
 {
 const clockText=document.getElementById("clockText"); 
-let t=
+let t=true;
 do {
   let time=new Date();
   const hour=time.getHours();
