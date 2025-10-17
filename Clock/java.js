@@ -11,5 +11,5 @@ const clockText=document.getElementById("clockText");
 }
 loopClock()
 {
-setTimeout(clock,loopClock,2000);  
+setInterval(clock,2000);  
 }
