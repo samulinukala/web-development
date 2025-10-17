@@ -6,7 +6,7 @@ do {
   let time=new Date();
   const hour=time.getHours();
   const second=time.getSeconds();
-  const minute=time.get
+  const minute=time.getMinutes();
   clockText.innerText=
 }
 while (true);
