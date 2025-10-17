@@ -1,4 +1,4 @@
-function clock()
+Function clock()
 {
 const clockText=document.getElementById("clockText"); 
 
