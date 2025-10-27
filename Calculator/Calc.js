@@ -27,6 +27,7 @@ function operation(sign){
     whichnumber=true;
     op="-";
   }else if(sign=="x"){
-    w
+    whichnumber=true;
+    o
   }
 }
