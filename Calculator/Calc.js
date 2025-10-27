@@ -20,7 +20,8 @@ function addnumber(numd){
 }
 function equals() {
   switch (sign){
-    case ""
+    case "+":
+      
   }
 }
 function operation(sign){
