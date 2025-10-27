@@ -28,7 +28,7 @@ function operation(sign){
   switch (sign){
     
   
-  case:
+  case "/":
     whichnumber=true;
     op="/";
   }
