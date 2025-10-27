@@ -20,7 +20,8 @@ function addnumber(numd){
 function operation(sign){
   if(sign=="+")
   {
-    whichnumber
+    whichnumber=true;
+    sig
     
   }
 }
