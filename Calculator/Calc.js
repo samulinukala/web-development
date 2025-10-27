@@ -8,7 +8,7 @@ let num2=0;
 let num3=0;
 let whichnumber=false;
 const result=document.getElementById("result");
-let sign=0
+let sign=0;
 function addnumber(numd){
   if(whichnumber==false){
     num1=num1+numd;
@@ -20,7 +20,7 @@ function addnumber(numd){
 function operation(sign){
   if(sign=="+")
   {
-    
+    whichnumber
     
   }
 }
