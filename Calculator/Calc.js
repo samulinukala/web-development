@@ -1,1 +1,1 @@
-Function calculate
+Function calculate()
