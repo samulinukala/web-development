@@ -21,7 +21,7 @@ function addnumber(numd){
 function equals() {
   switch (op){
     case "+":
-    num
+    num3=
   }
 }
 function operation(sign){
