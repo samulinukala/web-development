@@ -38,8 +38,9 @@ function operation(sign){
     whichnumber=true;
     op="-";
     break;
-    case "x"
-  }else if(sign=="x"){
+    case "x":
+      
+
     whichnumber=true;
     op="x";
   }else {
