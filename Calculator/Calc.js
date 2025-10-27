@@ -18,10 +18,10 @@ function addnumber(numd){
   }
 }
 function operation(sign){
-  if(sign=="+")
+  if(sign=="/")
   {
     whichnumber=true;
-    op="+";
+    op="";
   }
   else if(sign=="-"){
     whichnumber=true;
