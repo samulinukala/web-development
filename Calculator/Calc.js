@@ -46,6 +46,6 @@ function operation(sign){
     break;
     default:
     console.log("failure");
-    b
+    break;
   }
 }
