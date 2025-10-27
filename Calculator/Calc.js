@@ -45,5 +45,6 @@ function operation(sign){
     case "+":
     whichnumber=true;
     op="+";
+    
   }
 }
