@@ -10,6 +10,6 @@ function addnumber(numd){
   if(whichnumber==false){
     num1=num1+numd;
   }else{
-    num2=num2+
+    num2=num2+numd;
   }
 }
