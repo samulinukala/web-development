@@ -1,4 +1,4 @@
-function setUp
+function setUp()
 {
   
   
