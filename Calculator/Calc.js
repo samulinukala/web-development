@@ -33,8 +33,6 @@ function operation(sign){
     op="/";
   break;
   case "-":
-    
-  
     whichnumber=true;
     op="-";
     break;
@@ -46,5 +44,6 @@ function operation(sign){
     whichnumber=true;
     op="+";
     break;
+    
   }
 }
