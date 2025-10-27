@@ -14,5 +14,5 @@ function addnumber(numd){
   }
 }
 function operation(sign){
-  if{
+  if(sign==+)
 }
