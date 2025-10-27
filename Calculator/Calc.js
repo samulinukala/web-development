@@ -13,7 +13,7 @@ let op="";
 function addnumber(numd){
   if(whichnumber==false){
     num1=num1+numd;
-    result.innerHTML=num1;
+    result.innerText=num1;
   }else{
     num2=num2+numd;
     result.innerText=num2;
