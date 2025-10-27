@@ -43,6 +43,7 @@ function operation(sign){
     op="x";
     break;
     case "+":
+      
   }else {
     whichnumber=true;
     op="+";
