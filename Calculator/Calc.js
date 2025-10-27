@@ -42,7 +42,7 @@ function operation(sign){
     whichnumber=true;
     op="x";
     break;
-    case 
+    case "+"
   }else {
     whichnumber=true;
     op="+";
