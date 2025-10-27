@@ -13,3 +13,4 @@ function addnumber(numd){
     num2=num2+numd;
   }
 }
+fun
