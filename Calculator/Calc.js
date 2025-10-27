@@ -32,6 +32,7 @@ function operation(sign){
     whichnumber=true;
     op="/";
   break;
+  case 
   else if(sign=="-"){
     whichnumber=true;
     op="-";
