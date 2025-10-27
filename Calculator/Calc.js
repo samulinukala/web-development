@@ -44,6 +44,7 @@ function operation(sign){
     whichnumber=true;
     op="+";
     break;
-    
+    default:
+    console.log
   }
 }
