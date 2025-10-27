@@ -31,6 +31,6 @@ function operation(sign){
     op="x";
   }else {
     whichnumber=true;
-    op
+    op=
   }
 }
