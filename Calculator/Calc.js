@@ -1,5 +1,5 @@
 function calculate()
 {
-  let
+  let 
   
 }
