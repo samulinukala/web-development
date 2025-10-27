@@ -10,4 +10,6 @@ function addnumber(numd){
   if(whichnumber==false){
     num1=num1+numd;
   }else{
+    n
+  }
 }
