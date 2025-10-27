@@ -1,5 +1,5 @@
 function calculate()
 {
-  let number1=0
+  let number1=
   
 }
