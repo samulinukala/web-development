@@ -19,7 +19,9 @@ function addnumber(numd){
   }
 }
 function equals() {
-  switch (sign)
+  switch (sign){
+    case +:
+  }
 }
 function operation(sign){
   if(sign=="/")
