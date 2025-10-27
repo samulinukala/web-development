@@ -18,6 +18,7 @@ function addnumber(numd){
     result.innerText=num2;
   }
 }
+
 function operation(sign){
   if(sign=="/")
   {
