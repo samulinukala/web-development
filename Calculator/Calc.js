@@ -9,7 +9,6 @@ const result=document.getElementById("result");
 let op="";
 }
 
-
 function addnumber(numd){
   if(whichnumber==false){
     num1=num1+numd;
