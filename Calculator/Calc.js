@@ -28,6 +28,6 @@ function operation(sign){
     op="-";
   }else if(sign=="x"){
     whichnumber=true;
-    op="/";
-  }
+    op="x";
+  }else
 }
