@@ -25,7 +25,9 @@ function equals() {
   }
 }
 function operation(sign){
-  switch (sign)
+  switch (sign){
+    
+  }
   {
     whichnumber=true;
     op="/";
