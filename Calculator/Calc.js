@@ -38,7 +38,7 @@ function operation(sign){
     whichnumber=true;
     op="-";
     break;
-    case 
+    case "x"
   }else if(sign=="x"){
     whichnumber=true;
     op="x";
