@@ -17,6 +17,6 @@ function addnumber(numd){
 function operation(sign){
   if(sign=="+")
   {
-    num3=nu
+    num3=num1+
   }
 }
