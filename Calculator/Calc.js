@@ -21,7 +21,7 @@ function operation(sign){
   if(sign=="+")
   {
     whichnumber=true;
-    sig
+    sign=
     
   }
 }
