@@ -26,5 +26,5 @@ function operation(sign){
   else if(sign=="-"){
     whichnumber=true;
     op="-";
-  }else if
+  }else if()
 }
