@@ -1,5 +1,6 @@
 function calculate()
 {
-  let number1=
+  
   
 }
+let
