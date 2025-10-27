@@ -23,5 +23,5 @@ function operation(sign){
     whichnumber=true;
     op="+";
   }
-  else
+  else if
 }
