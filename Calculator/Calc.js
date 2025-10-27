@@ -3,4 +3,4 @@ function calculate()
   
   
 }
-let num1
+let num1=0
