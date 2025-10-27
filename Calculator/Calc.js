@@ -1,3 +1,4 @@
-function calculate(){
+function calculate()
+{
   
 }
