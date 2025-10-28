@@ -37,8 +37,8 @@ function equals() {
   }
   whichnumber=false;
   num1="0";
-  num2="0;
-  num3=0;
+  num2="0";
+  num3="0";
 }
 
 function operation(sign){
