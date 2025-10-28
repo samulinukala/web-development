@@ -42,7 +42,7 @@ function equals() {
   num3=0;
 }
 function operation(sign){
-  const result=document.getElementById("result");
+
   switch (sign){
   case "/":
     whichnumber=true;
