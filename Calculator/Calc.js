@@ -10,7 +10,7 @@ function addNumber(numd){
   const result=document.getElementById("result");
   if(whichnumber==false){
     num1=num1+numd;
-    result.innerText=num1;
+    result.value=num1;
   }else{
     num2=num2+numd;
     result.value=num2;
