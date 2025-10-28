@@ -3,8 +3,8 @@ let num1=0;
 let num2=0;
 let num3=0;
 let op="";
-let num1s="0";
-let num2s="0";
+let num1s="";
+let num2s="";
 
 function addNumber(numd){
   const result=document.getElementById("result");
