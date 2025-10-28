@@ -12,7 +12,7 @@ function addNumber(numd){
     num1=
     result.value=num1;
   }else{
-    num2=num2+numd;
+    num2=
     result.value=num2;
   }
 }
