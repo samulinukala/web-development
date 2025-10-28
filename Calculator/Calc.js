@@ -44,11 +44,11 @@ let num3=0;
 
 let op="";
 function operation(sign){
-
+const result=document.getElementById("result");
   switch (sign){
   case "/":
     whichnumber=true;
-    
+    result.value=
     op="/";
   break;
   case "-":
