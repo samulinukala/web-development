@@ -1,7 +1,7 @@
 function setUp()
 
 {
-result=document.getElementById("result");
+
 }
 let num1=0;
 let num2=0;
@@ -10,6 +10,7 @@ let whichnumber=false;
 const result=document.getElementById("result");
 let op="";
 function addNumber(numd){
+  document.getElementById("result");
   if(whichnumber==false){
     num1=num1+numd;
     result.innerHTML=num1;
