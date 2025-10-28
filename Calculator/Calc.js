@@ -19,7 +19,7 @@ function addNumber(numd){
 
 function equals() {
   const result=document.getElementById("result");
-  num1=
+  num1=Number();
   switch (op){
     case "+":
     num3=num1+num2;
