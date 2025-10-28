@@ -1,9 +1,8 @@
 let whichnumber=false;
-let num1="0";
-let num2="0";
-let num3="0";
+let num1=0;
+let num2=0;
+let num3=0;
 let op="";
-
 function addNumber(numd){
   const result=document.getElementById("result");
   if(whichnumber==false){
@@ -14,7 +13,6 @@ function addNumber(numd){
     result.value=num2;
   }
 }
-
 function equals() {
   const result=document.getElementById("result");
   switch (op){
@@ -36,9 +34,9 @@ function equals() {
       break;
   }
   whichnumber=false;
-  num1="0";
-  num2="0";
-  num3="0";
+  num1=0;
+  num2=0;
+  num3=0;
 }
 
 function operation(sign){
