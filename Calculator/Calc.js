@@ -48,6 +48,7 @@ function operation(sign){
   switch (sign){
   case "/":
     whichnumber=true;
+    
     op="/";
   break;
   case "-":
