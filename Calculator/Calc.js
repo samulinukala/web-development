@@ -1,10 +1,13 @@
+function setUp()
 
+{
 let num1=0;
 let num2=0;
 let num3=0;
 let whichnumber=false;
 const result=document.getElementById("result");
 let op="";
+}
 
 function addNumber(numd){
   if(whichnumber==false){
