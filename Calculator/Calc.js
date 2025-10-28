@@ -38,6 +38,7 @@ function equals() {
       break;
   }
   whichnumber=false;
+  num1=0
 }
 function operation(sign){
   switch (sign){
