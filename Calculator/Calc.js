@@ -5,7 +5,6 @@ let num1=0;
 let num2=0;
 let num3=0;
 let whichnumber=false;
-
 let op="";
 }
 
@@ -20,6 +19,7 @@ function addNumber(numd){
   }
 }
 function equals() {
+  const result=document.getElementById("result");
   switch (op){
     case "+":
     num3=num1+num2;
@@ -44,6 +44,7 @@ function equals() {
   num3=0;
 }
 function operation(sign){
+  const result=document.getElementById("result");
   switch (sign){
   case "/":
     whichnumber=true;
