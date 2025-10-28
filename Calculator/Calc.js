@@ -29,11 +29,11 @@ function equals() {
       break;
     case "/":
       num3=num1/num2;
-      result.innerHT=num3;
+      result.innerText=num3;
       break;
     case "x":
       num3=num1*num2;
-      result.innerHTML=num3;
+      result.innerHT=num3;
       break;
   }
   whichnumber=false;
