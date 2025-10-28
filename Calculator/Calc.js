@@ -29,7 +29,7 @@ function equals() {
       result.innerText=num3;
       break;
     case "/":
-      
+      num3=num1
   }
   
 }
