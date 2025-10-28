@@ -10,10 +10,10 @@ function addNumber(numd){
   const result=document.getElementById("result");
   if(whichnumber==false){
     num1=num1+numd;
-    result.innerHTML=num1;
+    result.innerText=num1;
   }else{
     num2=num2+numd;
-    result.innerHTML=num2;
+    result.inner=num2;
   }
 }
 function equals() {
