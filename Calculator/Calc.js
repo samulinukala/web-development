@@ -15,7 +15,7 @@ function addnumber(numd){
     result.innerHTML=num1;
   }else{
     num2=num2+numd;
-    result.innerText=num2;
+    result.innerHTML=num2;
   }
 }
 function equals() {
