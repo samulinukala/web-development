@@ -13,7 +13,7 @@ function addNumber(numd){
     result.innerText=num1;
   }else{
     num2=num2+numd;
-    result.inner=num2;
+    result.innerText=num2;
   }
 }
 function equals() {
