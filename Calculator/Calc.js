@@ -24,6 +24,7 @@ function equals() {
     num3=num1+num2;
     break;
   }
+  
 }
 function operation(sign){
   switch (sign){
