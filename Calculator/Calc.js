@@ -23,6 +23,7 @@ function equals() {
     case "+":
     num3=num1+num2;
     break;
+    case 
   }
   
 }
