@@ -37,7 +37,7 @@ function equals() {
       result.innerText=num3;
       break;
   }
-  
+  whichnumber=false;
 }
 function operation(sign){
   switch (sign){
