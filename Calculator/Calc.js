@@ -26,7 +26,7 @@ function equals() {
     break;
     case "-":
       num3=num1-num2;
-      result.innerText=3;
+      result.innerText=num3;
       break;
   }
   
