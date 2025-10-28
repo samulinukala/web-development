@@ -33,7 +33,7 @@ function equals() {
       result.innerText=num3;
       break;
     case "x":
-      num3=num1*num
+      num3=num1*num2;
   }
   
 }
