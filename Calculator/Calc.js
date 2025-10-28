@@ -48,7 +48,7 @@ const result=document.getElementById("result");
   switch (sign){
   case "/":
     whichnumber=true;
-    result.value=
+    result.value=num2;
     op="/";
   break;
   case "-":
