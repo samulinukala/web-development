@@ -9,7 +9,7 @@ const result=document.getElementById("result");
 let op="";
 }
 
-function addnumber(numd){
+function addNumber(numd){
   if(whichnumber==false){
     num1=num1+numd;
     result.innerHTML=num1;
