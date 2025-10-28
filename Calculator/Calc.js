@@ -3,7 +3,7 @@ let num1=0;
 let num2=0;
 let num3=0;
 let op="";
-let num1s=
+let num1s=""
 function addNumber(numd){
   const result=document.getElementById("result");
   if(whichnumber==false){
