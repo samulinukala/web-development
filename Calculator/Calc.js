@@ -1,7 +1,7 @@
 function setUp()
 
 {
-
+result=document.getElementById("result");
 }
 let num1=0;
 let num2=0;
