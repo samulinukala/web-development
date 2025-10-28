@@ -59,7 +59,7 @@ function operation(sign){
     case "+":
     whichnumber=true;
     op="+";
-    console.log("");
+    console.log("plus");
     break;
     default:
     console.log("failure");
