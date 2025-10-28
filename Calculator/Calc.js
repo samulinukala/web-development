@@ -53,14 +53,17 @@ const result=document.getElementById("result");
   break;
   case "-":
     whichnumber=true;
+     result.value=num2;
     op="-";
     break;
     case "x":
     whichnumber=true;
+     result.value=num2;
     op="x";
     break;
     case "+":
     whichnumber=true;
+     result.value=num2;
     op="+";
     console.log("plus");
     break;
