@@ -22,19 +22,19 @@ function equals() {
   switch (op){
     case "+":
     num3=num1+num2;
-    result.innerText=num3;
+    result.innerHTML=num3;
     break;
     case "-":
       num3=num1-num2;
-      result.innerText=num3;
+      result.innerHTML=num3;
       break;
     case "/":
       num3=num1/num2;
-      result.innerText=num3;
+      result.innerHTML=num3;
       break;
     case "x":
       num3=num1*num2;
-      result.innerText=num3;
+      result.innerHTML=num3;
       break;
   }
   whichnumber=false;
