@@ -21,7 +21,7 @@ function equals() {
   switch (op){
     case "+":
     num3=num1+num2;
-    result.innerText=num3;
+    result.value=num3;
     break;
     case "-":
       num3=num1-num2;
