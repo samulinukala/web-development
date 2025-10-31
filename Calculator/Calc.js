@@ -66,6 +66,7 @@ const result=document.getElementById("result");
     case "%":
       whichnumber=true;
       result.value=num1*(num2/100);
+      
     case "+":
     whichnumber=true;
      result.value=num2;
