@@ -63,7 +63,8 @@ const result=document.getElementById("result");
      result.value=num2;
     op="x";
     break;
-    case "%"
+    case "%":
+      
     case "+":
     whichnumber=true;
      result.value=num2;
