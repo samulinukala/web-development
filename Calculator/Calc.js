@@ -23,7 +23,7 @@ function reset(){
   num2s='';
   num3=0;
   whichnumber=false;
-  
+  result.value
 }
 
 function equals() {
