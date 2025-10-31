@@ -17,6 +17,7 @@ function addNumber(numd){
   }
 }
 function reset(){
+  const result=document.getElementById("result");
   num1=0;
   num1s='';
   num2=0;
