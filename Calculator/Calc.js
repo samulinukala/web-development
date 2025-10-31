@@ -65,7 +65,7 @@ const result=document.getElementById("result");
     break;
     case "%":
       whichnumber=true;
-      result.value=
+      result.value=num2;
 
     case "+":
     whichnumber=true;
