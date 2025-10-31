@@ -16,6 +16,9 @@ function addNumber(numd){
     result.value=num2s;
   }
 }
+function reset(){
+  
+}
 
 function equals() {
   const result=document.getElementById("result");
