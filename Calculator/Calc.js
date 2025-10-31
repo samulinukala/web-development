@@ -26,6 +26,7 @@ function equals() {
     num3=num1+num2;
     result.value=num3;
     break;
+    case "%"
     case "-":
       num3=num1-num2;
       result.value=num3;
