@@ -21,6 +21,7 @@ function reset(){
   num1s='';
   num2=0;
   num2s='';
+  
 }
 
 function equals() {
