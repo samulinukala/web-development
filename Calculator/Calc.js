@@ -29,6 +29,7 @@ function equals() {
     case "%":
       num3=num1*(num2/100);
       result.value=num3;
+      break;
     case "-":
       num3=num1-num2;
       result.value=num3;
