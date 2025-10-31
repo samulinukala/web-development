@@ -18,7 +18,7 @@ function addNumber(numd){
 }
 function reset(){
   num1=0;
-  num
+  num1s
 }
 
 function equals() {
